@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Order Manager</h1>
-<h3 align="center">Android app that manages orders received through an API. Orders are received in Json, they can be saved, modified and can be displayed in a detailed view.<br/>Implementation details:</h3>
+<h1 align="center">Welcome to Kotlin News</h1>
+<h3 align="center">Android news app. News are received through NewsApi. News are received in Json, they can be saved, searched and the original article can be displayed in a web view.<br/>Implementation details:</h3>
 
 - 🪛 Kotlin **(coroutines,flows)**
 
